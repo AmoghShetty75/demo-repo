@@ -1,5 +1,5 @@
 #this is readme file
-how are u
+
 helooooo
 
   
@@ -9,5 +9,5 @@ helooooo
 
 
 1st day in git
-what is
+
 why
